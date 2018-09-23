@@ -1,0 +1,10 @@
+{
+  "name": "challengejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "password-hash": "^1.2.2"
+  }
+}
